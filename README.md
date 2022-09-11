@@ -2,6 +2,19 @@
 Research on Autonomous Vehicle using the Duckietown Platform
 
 
+
+
+
+
+
+
+https://user-images.githubusercontent.com/63922806/189552980-c8117472-dd0d-4564-9c2b-a781815577b1.mp4
+
+
+
+
+
+
 ![IMG_0073](https://user-images.githubusercontent.com/63922806/189551298-7011cb36-2c77-4742-88c8-047315e0547c.PNG)
 
 
