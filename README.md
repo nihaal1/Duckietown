@@ -19,13 +19,11 @@ https://user-images.githubusercontent.com/63922806/189552980-c8117472-dd0d-4564-
 
 Integrated Racing Simulator to self driving duckiebot using ROS, Pygame Library and Docker Containers.
 
-
 One self driving bot follows human driven bot. The self driving robot supports lane following and object detection.
 
 
 
 command.py is the file that tells which docker container to look into.
-
 
 Steering_control and manual_control are the programs that integrates the racing simulator hardware to the robot.
 
